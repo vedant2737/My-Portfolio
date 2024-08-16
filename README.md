@@ -31,5 +31,5 @@ This project was built using these technologies.
 2. In the project directory, you can run: `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](https://vedantrautportfolio.netlify.app/) to view it in the browser.
+Open [http://localhost:3000](https://vedant2737portfolio.netlify.app/) to view it in the browser.
 The page will reload if you make edits.
