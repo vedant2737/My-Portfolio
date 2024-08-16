@@ -1,6 +1,7 @@
-![ved](https://github.com/user-attachments/assets/c57d9456-4ec1-43b0-924c-c4aaf99f4cb7)<h2 align="center">
+![Screenshot from 2024-08-16 14-50-11](https://github.com/user-attachments/assets/57e5f4c5-b620-4b3b-995a-d50295bb9bdc)
+<h2 align="center">
   Portfolio Website <br/>
-  <a href="https://vedantrautportfolio.netlify.app/" target="_blank">Vedant Raut</a>
+  <a href="https://vedant2737portfolio.netlify.app/" target="_blank">Vedant Raut</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src=""![Uploading ved.png…]()
@@ -11,7 +12,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://vedantrautportfolio.netlify.app/" target="_blank">Vedant Raut</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://vedant2737portfolio.netlify.app/" target="_blank">Vedant Raut</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
